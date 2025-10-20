@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/dragosginjoveanu/RiderProjects/Ginjoveanu_Dragos_Lab2/Ginjoveanu_Dragos_Lab2/obj/.store/.stage/iinhflpp.1pp</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/dragosginjoveanu/RiderProjects/Ginjoveanu_Dragos_Lab2/Ginjoveanu_Dragos_Lab2/obj/.store/.stage/iinhflpp.1pp</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">DotnetToolReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.6.2</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="/Users/dragosginjoveanu/RiderProjects/Ginjoveanu_Dragos_Lab2/Ginjoveanu_Dragos_Lab2/obj/.store/.stage/iinhflpp.1pp/" />
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Pkgdotnet-aspnet-codegenerator Condition=" '$(Pkgdotnet-aspnet-codegenerator)' == '' ">/Users/dragosginjoveanu/RiderProjects/Ginjoveanu_Dragos_Lab2/Ginjoveanu_Dragos_Lab2/obj/.store/.stage/iinhflpp.1pp/dotnet-aspnet-codegenerator/7.0.12</Pkgdotnet-aspnet-codegenerator>
+  </PropertyGroup>
+</Project>
